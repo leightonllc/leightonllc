@@ -67,6 +67,7 @@ I am a student 📚 from Hong Kong :hong_kong:.
 ---
 
 ### :curry: Language and Tools (Updates as I learn):
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40">
@@ -90,7 +91,7 @@ I am a student 📚 from Hong Kong :hong_kong:.
 
 ---
 
-## :spaghetti: Courses I'm taking this semester:
+### :spaghetti: Courses I'm taking this semester:
 
 | Course Code                 | Course Name                              |
 | -------------------- | -------------------------------------------- |
