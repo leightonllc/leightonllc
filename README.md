@@ -38,7 +38,7 @@ I am a student 📚 from Hong Kong :hong_kong:.
 <img align="right" src="https://img.shields.io/badge/-Bloomberg%20Terminal-black" /> 
   
 - 👨‍💼 **Intern, Market Development**\
-📆 Dec 2021 - moment\
+📆 Dec 2021 - Feb 2022\
 📍 **Hong Kong Monetary Authority** - Hong Kong
   
 <img align="right" src="https://img.shields.io/badge/-VBA-informational" />
@@ -70,6 +70,7 @@ I am a student 📚 from Hong Kong :hong_kong:.
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain-wordmark.svg" width="40">  
