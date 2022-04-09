@@ -85,7 +85,12 @@ I am a student 📚 from Hong Kong :hong_kong:.
 <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" width="40">  
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40">  
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40">
   
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg" width="40">
   
 </div>
 
