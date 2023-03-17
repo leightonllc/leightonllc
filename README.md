@@ -5,7 +5,7 @@
 
 ### 🧐 About Me:
 -  I am a final year undergrad student in Financial Technology at the Chinese University of Hong Kong (CUHK)
--  I double minor in 1️⃣ Computer Science 2️⃣ Web & Cloud Computing
+-  I minor in Computer Science
 -  I am working part-time at Insurance Authority, leading and developing AI-driven solutions
 -  I am an incoming Technology Graduate of HSBC Hong Kong
 
