@@ -4,12 +4,8 @@
 [![GitHub leightonllc](https://img.shields.io/github/followers/leightonllc?label=follow&style=social)](https://github.com/souravjain540)&nbsp;
 
 ### 🧐 About Me:
--  I am a final year undergrad student in Financial Technology at the Chinese University of Hong Kong (CUHK)
--  I minor in Computer Science
--  I am working part-time at Insurance Authority, leading and developing AI-driven solutions
--  I am an incoming Technology Graduate of HSBC Hong Kong
 
----
+- HSBC Digital Innovation Graduate - Class of 2023
 
 ### ⚡ Language and Frameworks:
 
@@ -36,14 +32,14 @@ and more
 
 ### :blue_book: Recent Courses:
 
-| Course Code                 | Course Name                              |
-| -------------------- | -------------------------------------------- |
-| CSCI3150 | Intro to Operating Systems |
-| FTEC4999 | Final Year Project II |
+| Course Code                 | Course Name                              | Grade                              |
+| -------------------- | --------------------------------------------  | -------------------------------------------- |
+| CSCI3150 | Intro to Operating Systems | A-
+| FTEC4999 | Final Year Project II | A-
 
-Final Year Projects under the coaching of Dr. Liu Pengfei from the Centre for Perceptual and Interactive Intelligence:
+Final Year Projects under the coaching from the Centre for Perceptual and Interactive Intelligence:
 - FYP #1: Neural Question Generation for an Extensible Question Answering System
-- FYP #2: Improving Low-Resource Cantonese-English Machine Translation and Continual Learning after Deployment (In Progress)
+- FYP #2: Improving Low-Resource Cantonese-English Machine Translation and Continual Learning after Deployment
 
 
 
